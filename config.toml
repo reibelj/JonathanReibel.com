@@ -21,7 +21,7 @@
 #########################################################
 
 languageCode = "en-us"
-title = "Example Site"
+title = "Jonathan Reibel"
 baseURL = ""
 theme = "Midnight"
 
@@ -42,7 +42,7 @@ enableRobotsTXT = true
 [params]
     ## Tagline of your site. Displays in the header,
     ## just below the title
-    tagline = "Using the Midnight theme"
+    tagline = "The secure learner"
 
     ## Description of your site - for use in SEO
     description = "A useful description for search engine results"
@@ -113,7 +113,7 @@ guide and the [user documentation](https://bluestnight.com/docs/midnight/users/)
 ## The commented out values are the defaults used
 ## See also: https://bluestnight.com/docs/midnight/users/site/appearance/#custom-colors
 [params.color]
-    page_background = "#d3d3d3"
+    page_background = "#000000"
     main_background = "#050505"
     alt_background = "#252525"
     main_text = "#e2e2e2"
