@@ -100,7 +100,7 @@ guide and the [user documentation](https://bluestnight.com/docs/midnight/users/)
     ## area - some parts of the image may get cut off due to the screen dimensions
     ## Set to anything else (like "auto") to not stretch the image at all
     fit = "cover"
-    
+
     ## Defines whether the background should move with the page or stay fixed
     ## in place. Set to `true` to keep it fixed in place.
     fixed = true
@@ -112,14 +112,14 @@ guide and the [user documentation](https://bluestnight.com/docs/midnight/users/)
 ## Change the color scheme of the site
 ## The commented out values are the defaults used
 ## See also: https://bluestnight.com/docs/midnight/users/site/appearance/#custom-colors
-#[params.color]
-    #page_background = "#000000"
-    #main_background = "#050505"
-    #alt_background = "#252525"
-    #main_text = "#e2e2e2"
-    #alt_text = "#e2e2e2"
-    #accent = "#2c8cef"
-    #accent_text = "#e2e2e2"
+[params.color]
+    page_background = "#d3d3d3"
+    main_background = "#050505"
+    alt_background = "#252525"
+    main_text = "#e2e2e2"
+    alt_text = "#e2e2e2"
+    accent = "#2c8cef"
+    accent_text = "#e2e2e2"
 
 ## Midnight can integrate with various comment providers through the plugin
 ## system. Included is a plugin for Commento.
@@ -212,7 +212,7 @@ guide and the [user documentation](https://bluestnight.com/docs/midnight/users/)
         ## Will cause errors if no categories are defined
         "categories",
         ## Enable a "cloud" of page tags ordered by most common
-        ## Will cause errors if no tags are defined    
+        ## Will cause errors if no tags are defined
         "taglist"
     ]
     ## Some sidebar widgets require extra configuration, like the Patreon one.
