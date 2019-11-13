@@ -204,16 +204,16 @@ guide and the [user documentation](https://bluestnight.com/docs/midnight/users/)
         #"support",
         ## Enable a search field
         ## See also: https://bluestnight.com/docs/midnight/users/sidebar/search/
-        "search",
+        #"search",
         ## Enable a recent articles list. Can be configured to use a custom section
         ## See also: https://bluestnight.com/docs/midnight/users/sidebar/recent-posts/
-        "recent",
+        #"recent",
         ## Enable a list of page categories
         ## Will cause errors if no categories are defined
-        "categories",
+        #"categories",
         ## Enable a "cloud" of page tags ordered by most common
         ## Will cause errors if no tags are defined
-        "taglist"
+        #"taglist"
     ]
     ## Some sidebar widgets require extra configuration, like the Patreon one.
     ## If you use the Patreon widget, replace the quoted "username" with your

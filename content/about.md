@@ -1,6 +1,6 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About Me"
+date = "2019-11-13"
 menu = "main"
 weight = 4
 +++
@@ -16,4 +16,3 @@ It makes use of a variety of open source projects including:
 * https://github.com/spf13/viper
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
