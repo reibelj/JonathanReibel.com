@@ -83,7 +83,7 @@ enableRobotsTXT = true
     ## except those with a smaller image defined.
     ## The file path must be relative to the assets/ directory. For example,
     ## the below file is found at assets/images/background.jpg
-    src = "/images/Background.jfif"
+    src = "/images/background.jpg"
 
     ## Background image to use on all medium (< 1024px) and smaller screens
     #medium_src = "/images/background_medium.jpg"
@@ -178,7 +178,8 @@ enableRobotsTXT = true
 ## see https://bluestnight.com/docs/midnight/users/shortcodes/members/#social-links
 ## See also: https://bluestnight.com/docs/midnight/users/site/social-icons/
 [params.social]
-    gitlab = "BluestNight/Midnight"
+    github = "reibelj"
+    linkedin = "193506171"
 
 ## Options used while generating server configuration files.
 ## See https://bluestnight.com/docs/midnight/users/server/ for more.
