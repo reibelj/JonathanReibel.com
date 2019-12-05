@@ -1,4 +1,4 @@
 +++
 title = "About Me"
-weight = 4
+weight = 2
 +++
