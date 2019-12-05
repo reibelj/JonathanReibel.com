@@ -63,8 +63,8 @@ enableRobotsTXT = true
     ## Set a site thumbnail/logo that appears next to the site title
     ## Optionally make the corners of the logo rounded by a given amount
     ## See also: https://bluestnight.com/docs/midnight/users/site/appearance/#header-thumbnail
-    #thumbnail = "images/thumbnail.png"
-    #thumbnail_radius = "0%"
+    thumbnail = "images/profile.png"
+    thumbnail_radius = "10%"
 
     ## Disable the use of minified JavaScript and CSS
     ## Useful only for debugging purposes
@@ -83,7 +83,7 @@ enableRobotsTXT = true
     ## except those with a smaller image defined.
     ## The file path must be relative to the assets/ directory. For example,
     ## the below file is found at assets/images/background.jpg
-    src = "assets/images/background.jpg"
+    src = "images/background.png"
 
     ## Background image to use on all medium (< 1024px) and smaller screens
     #medium_src = "/images/background_medium.jpg"
