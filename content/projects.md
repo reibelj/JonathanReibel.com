@@ -14,5 +14,7 @@ weight = 2
 * Optimized Travel Pathfinding
  * Developed with Java during my course work for Algorithm Analysis, This project utilized graphs and path finding algorithms such as Dijkstra's. Combining these, we optimized the pathfinding and applied it to traveling routes. The users can then input their parameters such as time and budgeting in order to find the most effective plans for travel.
 
+ [![Github Repository](/assets/images/github1.png)](https://github.com/reibelj/480CodingProject)
+ 
 * Pikachu Must Go
  * A more whimsical project developed with Python during my discrete structures coursework. The goal of this project was to develop a basic maze game utilizing graphs and dictionaries an allowed the user to guide Pikachu through a series of mazes.
