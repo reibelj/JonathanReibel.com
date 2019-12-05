@@ -1,4 +1,4 @@
-whimsical+++
++++
 title = "Skills"
 weight = 2
 +++
@@ -14,7 +14,7 @@ weight = 2
 * Version Control
  * Git & Github
  * Github flow model
-* Miscellanious
+* Miscellaneous
  * Google Drive API utilization
  * Dropbox API utilization
  * A+ Certified
