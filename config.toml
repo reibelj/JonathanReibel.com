@@ -64,7 +64,7 @@ enableRobotsTXT = true
     ## Optionally make the corners of the logo rounded by a given amount
     ## See also: https://bluestnight.com/docs/midnight/users/site/appearance/#header-thumbnail
     thumbnail = "images/profile.png"
-    thumbnail_radius = "40%"
+    thumbnail_radius = "0%"
 
     ## Disable the use of minified JavaScript and CSS
     ## Useful only for debugging purposes
@@ -83,7 +83,7 @@ enableRobotsTXT = true
     ## except those with a smaller image defined.
     ## The file path must be relative to the assets/ directory. For example,
     ## the below file is found at assets/images/background.jpg
-    src = "images/background.png"
+    src = "/assets/images/background.png"
 
     ## Background image to use on all medium (< 1024px) and smaller screens
     #medium_src = "/images/background_medium.jpg"
@@ -96,7 +96,7 @@ enableRobotsTXT = true
     ## Set to "cover" to expand image so that it covers all of the background
     ## area - some parts of the image may get cut off due to the screen dimensions
     ## Set to anything else (like "auto") to not stretch the image at all
-    fit = "auto"
+    fit = "cover"
 
     ## Defines whether the background should move with the page or stay fixed
     ## in place. Set to `true` to keep it fixed in place.
@@ -108,14 +108,14 @@ enableRobotsTXT = true
 
 ## Change the color scheme of the site
 ## The commented out values are the defaults used
-## See also: https://bluestnight.com/docs/midnight/users/site/appearance/#custom-colors
+## See also: https://bluestnight.com/docs/midnight/usSers/site/appearance/#custom-colors
 [params.color]
     page_background = "#000000"
     main_background = "#050505"
     alt_background = "#252525"
     main_text = "#e2e2e2"
     alt_text = "#e2e2e2"
-    accent = "#2c8cef"
+    accent = "#2f4f4fS"
     accent_text = "#e2e2e2"
 
 ## Midnight can integrate with various comment providers through the plugin
