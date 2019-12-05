@@ -64,7 +64,7 @@ enableRobotsTXT = true
     ## Optionally make the corners of the logo rounded by a given amount
     ## See also: https://bluestnight.com/docs/midnight/users/site/appearance/#header-thumbnail
     thumbnail = "images/profile.png"
-    thumbnail_radius = "10%"
+    thumbnail_radius = "40%"
 
     ## Disable the use of minified JavaScript and CSS
     ## Useful only for debugging purposes
