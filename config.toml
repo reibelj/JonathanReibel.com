@@ -190,6 +190,7 @@ enableRobotsTXT = true
 
 ## Enable/disable sidebar widgets
 [params.sidebar]
+ enable = false
     ## Specify the order you want sidebar widgets to appear in.
     ## Omitted widgets are not displayed. You can also specify names
     ## for your own custom sidebar widgets (see below)
