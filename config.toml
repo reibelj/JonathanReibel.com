@@ -113,8 +113,8 @@ enableRobotsTXT = true
     page_background = "#000000"
     main_background = "#050505"
     alt_background = "#252525"
-    main_text = "#e2e2e2"
-    alt_text = "#e2e2e2"
+    main_text = "#f0fff0"
+    alt_text = "#f0fff0"
     accent = "#2f4f4f"
     accent_text = "#e2e2e2"
 
