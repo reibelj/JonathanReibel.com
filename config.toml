@@ -193,7 +193,7 @@ enableRobotsTXT = true
     ## Specify the order you want sidebar widgets to appear in.
     ## Omitted widgets are not displayed. You can also specify names
     ## for your own custom sidebar widgets (see below)
-    order = [
+    # order = [
         ## Enable a Patreon banner that links to your Patreon page
         ## See also: https://bluestnight.com/docs/midnight/users/sidebar/patreon-banner/
         #"patreon",
@@ -208,11 +208,11 @@ enableRobotsTXT = true
         #"recent",
         ## Enable a list of page categories
         ## Will cause errors if no categories are defined
-        "categories",
+        #"categories",
         ## Enable a "cloud" of page tags ordered by most common
         ## Will cause errors if no tags are defined
         #"taglist"
-    ]
+    # ]
     ## Some sidebar widgets require extra configuration, like the Patreon one.
     ## If you use the Patreon widget, replace the quoted "username" with your
     ## Patreon username.
