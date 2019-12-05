@@ -115,7 +115,7 @@ enableRobotsTXT = true
     alt_background = "#252525"
     main_text = "#e2e2e2"
     alt_text = "#e2e2e2"
-    accent = "#2f4f4fS"
+    accent = "#2f4f4f"
     accent_text = "#e2e2e2"
 
 ## Midnight can integrate with various comment providers through the plugin
