@@ -45,7 +45,7 @@ enableRobotsTXT = true
     tagline = "The secure learner"
 
     ## Description of your site - for use in SEO
-    description = "A useful description for search engine results"
+    # description = "A useful description for search engine results"
 
     ## 'authorbox' enables/disables the authorbox sitewide (can be disabled per page).
     ## 'author' is the name of the default author of all pages (can change per page).
@@ -110,8 +110,8 @@ enableRobotsTXT = true
 ## The commented out values are the defaults used
 ## See also: https://bluestnight.com/docs/midnight/usSers/site/appearance/#custom-colors
 [params.color]
-    page_background = "#000000"
-    main_background = "#050505"
+    #page_background = "#000000"
+    #main_background = "#050505"
     alt_background = "#252525"
     main_text = "#f0fff0"
     alt_text = "#f0fff0"
