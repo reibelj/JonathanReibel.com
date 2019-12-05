@@ -1,7 +1,7 @@
-
++++
 title = "Skills"
 weight = 2
-
++++
 
 * Programming Languages
  * Java

@@ -1,7 +1,7 @@
-
++++
 title = "About Me"
 weight = 2
-
++++
 
 Hello! My name is Jonathan Reibel.
 

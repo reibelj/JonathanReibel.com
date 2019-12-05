@@ -1,7 +1,7 @@
-
++++
 title = "Projects & Experience"
 weight = 2
-
++++
 
 # Projects of Interest:
 
@@ -13,6 +13,7 @@ weight = 2
 
 * Optimized Travel Pathfinding
 * [![Github Repository](/assets/images/Github-Mark-Light-32px.png)](https://github.com/reibelj/480CodingProject)
+
  * Developed with Java during my course work for Algorithm Analysis, This project utilized graphs and path finding algorithms such as Dijkstra's. Combining these, we optimized the pathfinding and applied it to traveling routes. The users can then input their parameters such as time and budgeting in order to find the most effective plans for travel.
 
 

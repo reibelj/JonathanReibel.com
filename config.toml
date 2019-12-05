@@ -198,7 +198,7 @@ disable = true
     order = [
         ## Enable a Patreon banner that links to your Patreon page
         ## See also: https://bluestnight.com/docs/midnight/users/sidebar/patreon-banner/
-        # "patreon",
+        #"patreon",
         ## Enable a widget with links to multiple methods of support
         ## See also: https://bluestnight.com/docs/midnight/users/sidebar/support/
         #"support",
