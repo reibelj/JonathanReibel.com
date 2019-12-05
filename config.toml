@@ -198,7 +198,7 @@ disable = true
     order = [
         ## Enable a Patreon banner that links to your Patreon page
         ## See also: https://bluestnight.com/docs/midnight/users/sidebar/patreon-banner/
-        #"patreon",
+        "Resume",
         ## Enable a widget with links to multiple methods of support
         ## See also: https://bluestnight.com/docs/midnight/users/sidebar/support/
         #"support",
@@ -210,7 +210,7 @@ disable = true
         #"recent",
         ## Enable a list of page categories
         ## Will cause errors if no categories are defined
-        "categories",
+        #"categories",
         ## Enable a "cloud" of page tags ordered by most common
         ## Will cause errors if no tags are defined
         #"taglist"

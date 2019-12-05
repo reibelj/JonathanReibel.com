@@ -1,7 +1,7 @@
-+++
+
 title = "Projects & Experience"
 weight = 2
-+++
+
 
 # Projects of Interest:
 

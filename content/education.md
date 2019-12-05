@@ -1,7 +1,7 @@
-+++
+
 title = "Education"
 weight = 2
-+++
+
 
 # Allegheny College, May 2020
 
