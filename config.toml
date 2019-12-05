@@ -180,6 +180,7 @@ enableRobotsTXT = true
 [params.social]
     github = "reibelj"
     linkedin = "193506171"
+    email = "jreibel7@gmail.com"
 
 ## Options used while generating server configuration files.
 ## See https://bluestnight.com/docs/midnight/users/server/ for more.
